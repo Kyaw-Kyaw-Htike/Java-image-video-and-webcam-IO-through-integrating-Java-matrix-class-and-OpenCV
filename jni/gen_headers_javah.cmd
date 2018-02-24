@@ -1,0 +1,2 @@
+javah -classpath "../bin";"../../StdLibExtra/bin" -o "KKH_Opencv_JNI_wrap/KKH_Opencv_JNI_wrap_Javah_generated_header.h" KKH.Opencv_JNI_wrap.imgcodecs.CvImage KKH.Opencv_JNI_wrap.videoio.CvVideoCapture
+pause
